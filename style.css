@@ -441,6 +441,9 @@ header nav ul li a{
     font-size: 23px;
     padding-top: 30px;
   }
+  .wrapper{
+    display: none;
+  }
 }
 /*PORTFOLIO-MOBILE*/
 .portfolio{
